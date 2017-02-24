@@ -6,4 +6,4 @@ My name is Jon Rurka, and I'm an aspiring C# and .Net software developer. I star
 # Projects
 
 ### Gravity Simulator:
-
+[![gravitySim](http://i.imgur.com/L0uOppq.png)](https://github.com/nug700/GravitySimulator)
