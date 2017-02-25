@@ -5,10 +5,10 @@ My name is Jon Rurka, and I'm an aspiring C# and .Net software developer. I star
 
 # Projects
 
-### Gravity Simulator:
+### [Gravity Simulator:](https://github.com/nug700/GravitySimulator)
 [![gravitySim](/images/GravityPreview.png)](https://github.com/nug700/GravitySimulator)
 
 
 
-### Volumetric Terrain Generator
+### [Volumetric Terrain Generator:](https://github.com/nug700/VoxelTerrain)
 [![Terrain](/images/TerrainPreview.png)](https://github.com/nug700/VoxelTerrain)
